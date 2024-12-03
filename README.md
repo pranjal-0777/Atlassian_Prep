@@ -32,6 +32,17 @@ CV : <br/>
 Projects : <br/>
 Leetcode Profile : <br/>
 
+3 months Roadmap:<br/>
+DSA - 15 Days<br/>
+System Design : 15 Days<br/>
+Playlist : 15 Days + 15 days<br/>
+Java : 2 Days<br/>
+SpringBoot : 3 Days<br/>
+Project : 15 Days<br/>
+Oth Rounds : 3 Days<br/>
+Resume : 3 Days<br/>
+
+
 
 
 
