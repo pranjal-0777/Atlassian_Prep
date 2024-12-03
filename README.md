@@ -38,8 +38,8 @@ Leetcode Profile : https://leetcode.com/u/its_not_me11q/<br/>
 DSA - 15 Days<br/>
 System Design : 15 Days<br/>
 Playlist : 15 Days + 15 days<br/>
-Java : 2 Days<br/>
-SpringBoot : 3 Days<br/>
+Java : 5 Days<br/>
+SpringBoot : 10 Days<br/>
 Project : 15 Days<br/>
 Oth Rounds : 3 Days<br/>
 Resume : 3 Days<br/>
