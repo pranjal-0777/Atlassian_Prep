@@ -17,5 +17,21 @@ LLD Basics - https://takeuforward.org/system-design/complete-system-design-roadm
 Design Patterns 1 - https://www.geeksforgeeks.org/software-design-patterns/ <br/>
 Design Machine code - https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/ <br/>
 LLD Common Questions - https://www.geeksforgeeks.org/top-low-level-system-designlld-interview-questions-2024/ <br/>
+<br/>
+** HLD LLD Complete Playlist - https://www.youtube.com/@ConceptandCoding/playlists <br/>
+<br/>
+Java - https://www.youtube.com/@ConceptandCoding/playlists <br/>
+Spring Boot - https://www.youtube.com/@ConceptandCoding/playlists <br/>
+<br/>
+STAR pattern - behaviourial round <br/>
+Atlassian Values - 5 Values <br/>
+<br/>
+Must Have<br/>
+Resume : <br/>
+CV : <br/>
+Projects : <br/>
+Leetcode Profile : <br/>
+
+
 
 
