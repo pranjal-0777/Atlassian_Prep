@@ -21,7 +21,9 @@ LLD Common Questions - https://www.geeksforgeeks.org/top-low-level-system-design
 ** HLD LLD Complete Playlist - https://www.youtube.com/@ConceptandCoding/playlists <br/>
 <br/>
 Java - https://www.youtube.com/@ConceptandCoding/playlists <br/>
+Java Questions - https://www.geeksforgeeks.org/java-interview-questions/ <br/>
 Spring Boot - https://www.youtube.com/@ConceptandCoding/playlists <br/>
+Spring Boot Questions - https://www.interviewbit.com/spring-boot-interview-questions/ <br/>
 <br/>
 STAR pattern - behaviourial round <br/>
 Atlassian Values - 5 Values <br/>
@@ -30,7 +32,7 @@ Must Have<br/>
 Resume : <br/>
 CV : <br/>
 Projects : <br/>
-Leetcode Profile : <br/>
+Leetcode Profile : https://leetcode.com/u/its_not_me11q/<br/>
 
 3 months Roadmap:<br/>
 DSA - 15 Days<br/>
