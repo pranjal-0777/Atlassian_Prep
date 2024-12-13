@@ -1,15 +1,16 @@
-# Atlassian_Prep
+# Wal_Prep
 RoadMap for Atlassian
 
 Data Structures & Algorithms :
 
 Solve - 150 Questions - https://neetcode.io/practice <br/>
 Solve - Hard Questions - https://neetcode.io/practice <br/>
-Atlassian Past Questions - https://github.com/krishnadey30/LeetCode-Questions-CompanyWise/blob/master/atlassian_alltime.csv <br/>
-Atlassian Interview Questions - https://www.geeksforgeeks.org/atlassian-interview-questions-for-technical-profiles/ <br/>
-Atlassian Interview Experience - https://www.geeksforgeeks.org/tag/atlassian/ <br/>
-Atlassian Discussion - https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=most_relevant&query=Atlassian <br/>
-Atlassian Experience - https://leetcode.com/discuss/interview-experience?currentPage=1&orderBy=most_relevant&query=Atlassian <br/>
+Wal Past Questions - https://github.com/krishnadey30/LeetCode-Questions-CompanyWise/blob/master/atlassian_alltime.csv <br/>
+Wal Interview Questions - https://www.geeksforgeeks.org/atlassian-interview-questions-for-technical-profiles/ <br/>
+Wal Interview Experience - https://www.geeksforgeeks.org/tag/atlassian/ <br/>
+Wal Discussion - https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=most_relevant&query=Atlassian <br/>
+Wal Experience - https://leetcode.com/discuss/interview-experience?currentPage=1&orderBy=most_relevant&query=Atlassian <br/>
+YouTube - Past Interview
 
 System Design:
 
